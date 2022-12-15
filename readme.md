@@ -5,8 +5,9 @@ Prerequisites:
 - python3
 - selenium (pip install selenium)
 
-Resolved some of the issues facing with the scripts mentioned.
-Currently repo's mentioned in that page seems to be not available. This can be further improved. 
+Resolved some of the issues faced with the scripts mentioned in above article.
+Issues seems to be with Python version changes and minor changes in kindle portal. 
+Currently repo mentioned in that page seems to be not available. Hence re-written and fixed the issues. 
 
 ### Sync kindle highlights to a local json file.
 Syntax: python get_highlights.py kindle-username kindle-password
